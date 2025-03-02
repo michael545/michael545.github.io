@@ -1,8 +1,10 @@
 ---
+
 layout: post
 title:  "Ikarjev let: Precenjenost kvantnih delnic"
-date:   2025-03-01 HH:MM:SS -0400
+date:   2025-03-01 12:00:00 -0400
 categories: Investing
+
 ---
 
 # Uvod
