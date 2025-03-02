@@ -10,8 +10,7 @@ V zadnjih treh mesecih smo priča novi špekulativni mrzlici, tokrat na
 področju kvantnega računalništva. Nedavna objava Googla o napredku v
 kvantnem svetu z novim čipom imenovanim »Willow« je še dodatno podžgala
 že tako razgrete apetite malih tehnoloških vlagateljev, ki so zamudili
-rast delnic, povezanih z umetno inteligenco, kot je \$NVDA, \$TSM in
-\$PLTR. V upanju na ponovitev zgodbe o hitrem obogatitvenem ciklu se je
+rast delnic, povezanih z umetno inteligenco, kot je, <span class="stock-symbol">$NVDA</span> in <span class="stock-symbol">$PLTR</span>. V upanju na ponovitev zgodbe o hitrem obogatitvenem ciklu se je
 množica vlagateljev usmerila v novo up vzbuajoče področje kvantenga
 računalništva. Ameriška podjetja na tem področju, kot so Rigetti
 Computing (RGTI), IonQ (IONQ), D-Wave Quantum (QBTS) in Quantum
