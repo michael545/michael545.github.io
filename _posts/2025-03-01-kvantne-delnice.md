@@ -6,7 +6,7 @@ categories: Investing
 ---
 
 # Uvod
-
+$\lvert 0 \rangle$
 V zadnjih treh mesecih smo priča novi špekulativni mrzlici, tokrat na
 področju kvantnega računalništva. Nedavna objava Googla o napredku v
 kvantnem svetu z novim čipom imenovanim »Willow« je še dodatno podžgala
